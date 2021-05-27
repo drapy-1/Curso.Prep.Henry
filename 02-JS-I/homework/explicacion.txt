@@ -1,0 +1,26 @@
+Variable:
+Una variable es una forma para guardar algo y usarlo despues. Como su nombre lo dice puede variar asi
+ que puede ser cambiado por otra cosa, a diferencia de la constante la cual no se puede cambiar.
+Para escribir la variable en la consola se escribe var. si ponemos var nombre = 'juan'; la computadora
+ sabra que var significa el nombre de juan
+ 
+
+
+Strings:
+los string son texto, siempre van entre comillas. como dije antes 'juan' seria el string
+
+
+Funciones:
+Una funcion como su combre lo indica es una accion que le damos a la consola en nuestro codigo.
+Se escribe primero function y el nombre la funcion describiendo lo que hace, luego parentesis abierto
+ y cerra y abrimos corchetes dentro de los cuales pondremos nuestro codigo a ejecutar.
+Podemos agregarle argumentos los cuales son variables dentro de la funcion que asignamos por ejemplo
+ si queremos que la funcion guarde una variable y luego la use asignamos primero la funcion function
+  presentacion(nombre){ y dentro de las corcheas el codigo console.log('hola, mi nombre es ' + nombre); }
+El 'return' nos sirve en caso de no usar console.log para que la funcion nos devuelva un resultado.
+
+Declaraciones 'if'
+Es una forma de comparacion para saber si algo es verdadedo o falso por ejempl si si queremos verificar
+ que 15 > 10 esto nos devolvera booleanos si es verdad nos devuelve un true y si no omitira esa funcion
+  y devolvera un false. Podemos comparar de diferentes formas sea suma, resta etc. con los operadores de comparacion.
+
