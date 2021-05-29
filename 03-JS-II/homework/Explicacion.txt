@@ -1,0 +1,21 @@
+for:
+el for es un bucle que va evaluando expreciones que le pidamos una y otra vez hasta que devuelve lo
+ que buscamos. su sintaxis es for(una variable sobre la que se repita el bucle; una condicional que
+  el bucle continua hasta que esta exprecion sea false; incrementamos nuestra variable). El siclo
+  se ejecuta y cada vez que la variable llega al final aumenta el contador en uno, el blucle evalua 
+  la condicional para saber hasta donde seguir si es true se ejecuta de nuevo, si es false se detiene.
+
+&&:
+Es un operador logico ("AND") que evalua expleciones si ambas son verdaderas devuelve true, si una o las
+ dos exprreciones son falsas devuelve false.
+
+||:
+Operador logico "OR" conpara 2 expreciones y devolvera false si ambas son falsas, si una o mas
+ son verdaderas devolvera true.
+
+!:
+El operador logico "Not" devuelve el valor bolleano opuesto del que se le pase.
+
+
+
+
